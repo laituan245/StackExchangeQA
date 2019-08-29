@@ -13,4 +13,6 @@ To-Do List:
 - [ ] Add example commands for using the script files
 
 ## Note
-The original StackExchangeQA dataset that we collected requires a storage size of more than 2GB. Therefore, we can only distribute the code for constructing the dataset at this time.
+* The original StackExchangeQA dataset that we collected requires a storage size of more than 2GB. Therefore, we can only distribute the code for constructing the dataset at this time.
+* This work was conducted at [Adobe Research](https://research.adobe.com/).
+* For any inquiry, please open a Github issue or contact me at laituan245--at--gmail.com
